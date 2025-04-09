@@ -14,7 +14,7 @@ const AnimePage = () => {
     { id: 9,  MULTI:"https://yasdownloads.org/solo-leveling-18718?season=01&episode=9", HD1: "", HD2: "", HDSUB1: "", HDSUB2: "" },
     { id: 10, MULTI:"https://yasdownloads.org/solo-leveling-18718?season=01&episode=10", HD1:"", HD2:"", HDSUB1:"", HDSUB2:"" },
     { id: 11, MULTI:"https://yasdownloads.org/solo-leveling-18718?season=01&episode=11", HD1:"", HD2:"", HDSUB1:"", HDSUB2:"" },
-    { id: 12, MULTI:"https://yasdownloads.org/solo-leveling-18718?season=01&episode=12", HD1:"", HD2:"", HDSUB1:"", HDSUB2:"" },
+    { id: 12, MULTI:"https://yasdownloads.org/solo-leveling-18718?season=01&episode=12", HD1:"https://yasdownloads.org/solo-leveling-18718?season=01&episode=12", HD2:"", HDSUB1:"", HDSUB2:"" },
 
   ];
 
