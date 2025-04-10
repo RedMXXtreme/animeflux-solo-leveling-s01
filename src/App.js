@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { FaRandom, FaSearch } from "react-icons/fa";
 const AnimePage = () => {
   const videos = [
+    
    { id: 1,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=1", HD1:"https://boosterx.stream/v/cr79UvbejRyi/", HD2:"https://boosterx.stream/v/cr79UvbejRyi",HDSUB1:"https://boosterx.stream/v/XixeJ7SJmPrJ/",HDSUB2:"https://swishsrv.com/e/7sjzzvonkeam"},
    { id: 2,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=2", HD1:"https://boosterx.stream/v/ayQZEa5fK0cb/", HD2:"https://boosterx.stream/v/ayQZEa5fK0cb/",HDSUB1:"https://boosterx.stream/v/xuIaXAlcwJn8/",HDSUB2:"https://swishsrv.com/e/w5yg33r7x771"},
    { id: 3,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=3", HD1:"https://boosterx.stream/v/c4pZqS6z4h7u/", HD2:"https://boosterx.stream/v/c4pZqS6z4h7u/",HDSUB1:"https://boosterx.stream/v/1ZA0tMe76Qgl/",HDSUB2:"https://swishsrv.com/e/p40zt4mq13vp"},
@@ -36,6 +37,8 @@ const AnimePage = () => {
   ];
 
   const searchLinks = {
+    "Shangri-La Frontier Season 2": { link: "https://animeflux-slf-s02.pages.dev/", img: "https://static1.animekai.to/94/i/a/bd/67664ad7ae926@100.jpg", year: "2023", type: "TV", rating: "PG-13" },
+    "Shangri-La Frontier": { link: "https://animeflux-slf-s01.pages.dev/", img: "https://static1.animekai.to/6e/i/0/28/67664acada30d@100.jpg", year: "2023", type: "TV", rating: "PG-13" },
     "Death Note": { link: "https://animeflux-deathnote.pages.dev/", img: "https://static1.animekai.to/7e/i/f/bf/67664a569f3a5@100.jpg", year: "2006", type: "TV", rating: "R" },
     "Shingeki no Kyojin": { link: "https://animeflux-shingeki-no-kyojin.pages.dev/", img: "https://animekai.to/assets/uploads/37585a39fe8c8d8fafaa2c7bfbf5374ecac859ea6a0886b7dc.png", year: "2013", type: "TV", rating: "R" },
     "Demon Slayer: Kimetsu no Yaiba": { link: "https://animeflux-demon-slayer-kimetsu-no-yaiba-arc.pages.dev/", img: "https://static1.animekai.to/70/i/5/79/67664a9bdad80@300.jpg", year: "2019", type: "TV", rating: "PG-R" },
