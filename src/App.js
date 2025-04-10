@@ -13,7 +13,7 @@ const AnimePage = () => {
    { id: 9,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=9", HD1:"https://newer.stream/v/xdr6HXJk8jw6/", HD2:"https://newer.stream/v/xdr6HXJk8jw6/",HDSUB1:"https://newer.stream/v/zaty38Pnzh01/",HDSUB2:"https://swishsrv.com/e/8ohsmw5ri49v"},
    { id: 10, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=10", HD1:"https://newer.stream/v/nwLINPQ6BfXa/", HD2:"https://newer.stream/v/nwLINPQ6BfXa/",HDSUB1:"https://newer.stream/v/7ZPoQRFeDFGJ/",HDSUB2:"https://sstream.site/e/efquvldg1zm7"},
    { id: 11, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=11", HD1:"https://newer.stream/v/YlZkbNwZrLbH/", HD2:"https://newer.stream/v/YlZkbNwZrLbH/",HDSUB1:"https://newer.stream/v/AoprcnoEj3cq/",HDSUB2:"https://sstream.site/e/okcdfc2ipxm0"},
-   { id: 12, src: "https://yasdownloads.org/solo-leveling-season-2-arise-from-the-shadow-19413?season=01&episode=12", HD1:"https://newer.stream/v/zjQAByzSFcNo/", HD2:"https://newer.stream/v/zjQAByzSFcNo/",HDSUB1:"https://newer.stream/v/a0DvbdJVqTly/",HDSUB2:"https://sstream.site/e/romcmsmp8apo"},   
+   { id: 12, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=12", HD1:"https://newer.stream/v/zjQAByzSFcNo/", HD2:"https://newer.stream/v/zjQAByzSFcNo/",HDSUB1:"https://newer.stream/v/a0DvbdJVqTly/",HDSUB2:"https://sstream.site/e/romcmsmp8apo"},   
   ];
 
   const ranvideo = [
