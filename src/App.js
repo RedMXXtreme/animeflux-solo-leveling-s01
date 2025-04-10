@@ -3,23 +3,23 @@ import { FaRandom, FaSearch } from "react-icons/fa";
 const AnimePage = () => {
   const videos = [
     
-   { id: 1,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=1", HD1:"https://boosterx.stream/v/cr79UvbejRyi/", HD2:"https://boosterx.stream/v/cr79UvbejRyi",HDSUB1:"https://boosterx.stream/v/XixeJ7SJmPrJ/",HDSUB2:"https://swishsrv.com/e/7sjzzvonkeam"},
-   { id: 2,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=2", HD1:"https://boosterx.stream/v/ayQZEa5fK0cb/", HD2:"https://boosterx.stream/v/ayQZEa5fK0cb/",HDSUB1:"https://boosterx.stream/v/xuIaXAlcwJn8/",HDSUB2:"https://swishsrv.com/e/w5yg33r7x771"},
-   { id: 3,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=3", HD1:"https://boosterx.stream/v/c4pZqS6z4h7u/", HD2:"https://boosterx.stream/v/c4pZqS6z4h7u/",HDSUB1:"https://boosterx.stream/v/1ZA0tMe76Qgl/",HDSUB2:"https://swishsrv.com/e/p40zt4mq13vp"},
-   { id: 4,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=4", HD1:"https://boosterx.stream/v/kT9lDfzXD03G/", HD2:"https://boosterx.stream/v/kT9lDfzXD03G/",HDSUB1:"https://boosterx.stream/v/3jfMvzk0Ho9b/",HDSUB2:"https://swishsrv.com/e/fvqxqy2b6g9k"},
-   { id: 5,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=5", HD1:"https://boosterx.stream/v/YM001tYU4rkd/", HD2:"https://boosterx.stream/v/YM001tYU4rkd/",HDSUB1:"https://boosterx.stream/v/ca5B2pBDizhc/",HDSUB2:"https://swishsrv.com/e/drz668ry4ybc"},
-   { id: 6,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=6", HD1:"https://boosterx.stream/v/Q0PLDQijgm0O/", HD2:"https://boosterx.stream/v/Q0PLDQijgm0O",HDSUB1:"https://boosterx.stream/v/OTKjmUF18kaa/",HDSUB2:"https://swishsrv.com/e/1f40m4q22b27"},
-   { id: 7,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=7", HD1:"https://newer.stream/v/biOC36u2T3mP/", HD2:"https://newer.stream/v/biOC36u2T3mP/",HDSUB1:"https://boosterx.stream/v/hJBcgflQcW3w/",HDSUB2:"https://swishsrv.com/e/9vthxvlhowz7"},
-   { id: 8,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=8", HD1:"https://newer.stream/v/eOYzCPabTlMz/", HD2:"https://newer.stream/v/eOYzCPabTlMz/",HDSUB1:"https://newer.stream/v/AyiRfnAXSm4j/",HDSUB2:"https://swishsrv.com/e/9j6k8lkby4uz"},
-   { id: 9,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=9", HD1:"https://newer.stream/v/xdr6HXJk8jw6/", HD2:"https://newer.stream/v/xdr6HXJk8jw6/",HDSUB1:"https://newer.stream/v/zaty38Pnzh01/",HDSUB2:"https://swishsrv.com/e/8ohsmw5ri49v"},
-   { id: 10, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=10", HD1:"https://newer.stream/v/nwLINPQ6BfXa/", HD2:"https://newer.stream/v/nwLINPQ6BfXa/",HDSUB1:"https://newer.stream/v/7ZPoQRFeDFGJ/",HDSUB2:"https://sstream.site/e/efquvldg1zm7"},
-   { id: 11, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=11", HD1:"https://newer.stream/v/YlZkbNwZrLbH/", HD2:"https://newer.stream/v/YlZkbNwZrLbH/",HDSUB1:"https://newer.stream/v/AoprcnoEj3cq/",HDSUB2:"https://sstream.site/e/okcdfc2ipxm0"},
-   { id: 12, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=12", HD1:"https://newer.stream/v/zjQAByzSFcNo/", HD2:"https://newer.stream/v/zjQAByzSFcNo/",HDSUB1:"https://newer.stream/v/a0DvbdJVqTly/",HDSUB2:"https://sstream.site/e/romcmsmp8apo"},   
+   { id: 1,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=1", HD1:"https://swishsrv.com/e/gg3nlg8rqh5g", HD2:"https://sstream.site/e/8x5723n2eeie",HDSUB1:"https://swishsrv.com/e/qskzlceryzwi",HDSUB2:"https://sstream.site/e/7xn2cr71wlie"},
+   { id: 2,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=2", HD1:"https://swishsrv.com/e/nsp3s663yt5f", HD2:"https://sstream.site/e/vs4terptg4f9",HDSUB1:"https://swishsrv.com/e/lnsiv5jwa5aj",HDSUB2:"https://sstream.site/e/bvnb4n3s990b"},
+   { id: 3,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=3", HD1:"https://swishsrv.com/e/jggq6p3covi8", HD2:"https://sstream.site/e/jo5tcnymw5ga",HDSUB1:"https://swishsrv.com/e/5whoj65nkxcs",HDSUB2:"https://sstream.site/e/uonk0hqit22t"},
+   { id: 4,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=4", HD1:"https://swishsrv.com/e/hqkeplowi3vy", HD2:"https://sstream.site/e/lebrcppvqmwh",HDSUB1:"https://swishsrv.com/e/sd4r2otrtbz9",HDSUB2:"https://sstream.site/e/788brkk3iqa9"},
+   { id: 5,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=5", HD1:"https://swishsrv.com/e/ugxwlknibnci", HD2:"https://sstream.site/e/w236u8goo9rd",HDSUB1:"https://swishsrv.com/e/bbheyptf1gts",HDSUB2:"https://sstream.site/e/opw9qm85lkw8"},
+   { id: 6,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=6", HD1:"https://swishsrv.com/e/ru2hq9er2xjz", HD2:"https://sstream.site/e/y28ghrinnnz7",HDSUB1:"https://swishsrv.com/e/gxr84vzvchgu",HDSUB2:"https://sstream.site/e/0vxjqkr7fo38"},
+   { id: 7,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=7", HD1:"https://swishsrv.com/e/tidmvgqya8xg", HD2:"https://sstream.site/e/5tu6u1r56xub",HDSUB1:"https://swishsrv.com/e/uyhn51mcxcia",HDSUB2:"https://sstream.site/e/dbgoez03qtbd"},
+   { id: 8,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=8", HD1:"https://swishsrv.com/e/j9cjyjbazg5i", HD2:"https://sstream.site/e/plma384axolu",HDSUB1:"https://swishsrv.com/e/7cgtonp5rh41",HDSUB2:"https://sstream.site/e/w439lhn8962n"},
+   { id: 9,  src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=9", HD1:"https://swishsrv.com/e/sfrffy5tdpzr", HD2:"https://sstream.site/e/mhjtrvqv96il",HDSUB1:"https://swishsrv.com/e/kyft51gpjcnw",HDSUB2:"https://sstream.site/e/i569k0283shr"},
+   { id: 10, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=10", HD1:"https://swishsrv.com/e/gmym6m810r5h", HD2:"https://sstream.site/e/xk36ezn38cpc",HDSUB1:"https://swishsrv.com/e/ric6bxqzow0j",HDSUB2:"https://sstream.site/e/s2s2aygvyhef"},
+   { id: 11, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=11", HD1:"https://swishsrv.com/e/e35k8z7fafp7", HD2:"https://swishsrv.com/e/e35k8z7fafp7",HDSUB1:"https://swishsrv.com/e/d5kl9oigqo2j",HDSUB2:"https://sstream.site/e/zg8el98qslrg"},
+   { id: 12, src: "https://yasdownloads.org/solo-leveling-18718?season=01&episode=12", HD1:"https://swishsrv.com/e/0adkc18miy2j", HD2:"https://swishsrv.com/e/0adkc18miy2j",HDSUB1:"https://swishsrv.com/e/xd22x6i9r7ye",HDSUB2:"https://sstream.site/e/xrq8xq0j9can"},
   ];
 
   const ranvideo = [
     { link: "https://animeflux-deathnote.pages.dev/"},
-    { link: "https://animeflux-shingeki-no-kyojin.pages.dev/"},
+    { link: "https://animeflux-attack-on-titan.pages.dev/"},
     { link: "https://animeflux-demon-slayer-kimetsu-no-yaiba-arc.pages.dev/"},
     { link:"https://animeflux-demon-slayer-kimetsu-no-yaiba-mugen-train-arc.pages.dev/"},
     { link:"https://animeflux-demon-slayer-kimetsu-no-yaiba-entertainment-arc.pages.dev/"},
@@ -29,8 +29,6 @@ const AnimePage = () => {
     { link:"https://animeflux-jujutsukaisen-s02.pages.dev/"},
     { link:"https://animeflux-jujutsukaisen-0.pages.dev/"},
     { link:"https://animeflux-puka-puka-juju.pages.dev/"},
-    { link: "https://animeflux-solo-leveling-s01.pages.dev/"}, // Example random link
-    { link: "https://animeflux-sololeveling-arise-from-the-shadow-s02.pages.dev/"}, // Example random link
 
   // Add more random links here
     
