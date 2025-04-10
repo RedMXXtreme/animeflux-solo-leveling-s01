@@ -185,7 +185,7 @@ const AnimePage = () => {
         <div className="flex flex-col lg:flex-row p-4 gap-4">
             <div className="bg-gray-800 p-4 w-full md:w-1/3 lg:w-1/4 rounded-lg shadow-md">
             <img
-          src="https://static1.animekai.to/86/i/e/d4/67829cc6b52b8.jpg"
+          src="https://static1.animekai.to/a6/i/b/01/67664ac5d6eaa.jpg"
           alt="Anime poster"
           className="w-16 md:w-32 lg:w-48"
           style={{ height: "191px", width: "min-content", objectFit: "cover" }}
@@ -214,6 +214,7 @@ const AnimePage = () => {
             className="absolute top-0 left-0 w-full h-full rounded-lg"
             allow="autoplay" 
             allowFullScreen
+            style={{ backgroundImage: "url('https://sm.ign.com/t/ign_in/screenshot/default/solo-leveling-anime_tysa.1200.jpg')" }}
           ></iframe>
             </div>
         {/* Episode Selection UI */}
