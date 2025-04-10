@@ -313,7 +313,7 @@ const AnimePage = () => {
           </div>
           </button>
           </a>
-          <a href="animeflux-solo-leveling-arise-from-the-shadow-s02">
+          <a href="https://animeflux-solo-leveling-arise-from-the-shadow-s02.pages.dev/">
           <button>
           <div className="bg-gray-700 p-4 rounded-lg flex-shrink-0 w-48"
           style={{ backgroundImage: "url('https://static1.animekai.to/86/i/e/d4/67829cc6b52b8.jpg')", backgroundSize: "cover" }}>
